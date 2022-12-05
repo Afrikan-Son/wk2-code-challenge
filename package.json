@@ -11,4 +11,19 @@
   "dependencies": {
     "json-server": "^0.17.1"
   }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afrikan-Son/wk2-code-challenge.git"
+  },
+  "author": "\"afrikan son\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afrikan-Son/wk2-code-challenge/issues"
+  },
+  "homepage": "https://github.com/Afrikan-Son/wk2-code-challenge#readme",
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "readline": "^1.3.0"
+  }
+
 }
